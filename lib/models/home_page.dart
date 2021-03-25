@@ -80,9 +80,9 @@ class HomeState extends State<Home> {
               child: Icon(Icons.delete),
               onTap: () async {
 //TODO 3 Panggil Fungsi untuk Delete dari DB berdasarkan Item
-                int id = this.itemList[index].id; // get id from sqlite database
-                await dbHelper.delete(id); // delete by id from table
-                itemList.removeAt(index); // delete by index from list
+                int id = this.itemList[index].id;
+                await dbHelper.delete(id);
+                itemList.removeAt(index);
                 updateListView();
               },
             ),
