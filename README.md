@@ -12,6 +12,10 @@ Hasil Tugas 1 Melengkapi TODO 4(Edit)
 
 ![plot](./images/Tugas%201(Edit).PNG)
 
+Hasil Tugas 2 Tambahkan variabel stok dan kode barang untuk operasi CRUD
+
+![plot](./images/Tugas2.PNG)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
