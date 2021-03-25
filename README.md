@@ -1,6 +1,8 @@
 # praktikum7
 
-A new Flutter project.
+Hasil Praktikum 6.3.1 sampai 6.3.6
+
+![plot](./images/praktikum.PNG)
 
 ## Getting Started
 
