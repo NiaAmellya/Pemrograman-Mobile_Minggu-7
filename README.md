@@ -6,7 +6,7 @@ Hasil Praktikum 6.3.1 sampai 6.3.6
 
 Hasil Tugas 1 Melengkapi TODO 3(Delete)
 
-![plot](./images/Tugas 1(Delete).PNG)
+![plot](./images/Tugas 1 (Delete).PNG)
 
 Hasil Tugas 1 Melengkapi TODO 4(Edit)
 
