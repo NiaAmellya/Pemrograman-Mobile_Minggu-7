@@ -4,6 +4,12 @@ Hasil Praktikum 6.3.1 sampai 6.3.6
 
 ![plot](./images/praktikum.PNG)
 
+Hasil Tugas 1 Melengkapi TODO 3(Delete)
+
+![plot](./images/Tugas 1 (Delete).PNG)
+
+Hasil Tugas 1 Melengkapi TODO 4(Edit)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
