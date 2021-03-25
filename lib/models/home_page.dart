@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:praktikum7/models/dbhelper.dart';
-import 'package:praktikum7/models/item.dart'; //pendukung program asinkron
+import 'package:praktikum7/models/item.dart';
 import 'package:sqflite/sqflite.dart';
 import 'dart:async';
 import 'input.dart';
