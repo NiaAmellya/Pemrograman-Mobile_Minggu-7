@@ -148,7 +148,8 @@ class EntryFormState extends State<EntryForm> {
                           textScaleFactor: 1.5,
                         ),
                         onPressed: () {
-                          Navigator.pop(context);
+                          Navigator.pop(
+                              context); //untuk meromove layar dari tumpukan
                         },
                       ),
                     ),
